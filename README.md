@@ -1,4 +1,4 @@
-# 🏬 Análisis de negocio basado en comportaiento de cohortes
+# 🏬 Análisis de negocio basado en comportamiento de cohortes
 Este proyecto se centra en el análisis de las campañas de marketing de una tienda virtual, para el cual se realizó una revisión profunda sobre el comportamiento de los usuarios separados por cohorte y la manera en que se distribuyeron las visitas, ventas y margenes de beneficio según los medios de difusión y consumo de los usuarios. Adicionalmente, se aplicaron técnicas de análisis para obtener datos relevantes como lo son LTV, CAC y ROMI
 
 ![CAC](https://github.com/justonenicolas/Cohort-based-Business-Analysis/blob/main/CAC.JPG)
